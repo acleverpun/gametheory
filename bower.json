@@ -1,0 +1,24 @@
+{
+  "name": "gametheory",
+  "version": "0.0.0",
+  "authors": [
+    "Ross Hadden <rosshadden@gmail.com>"
+  ],
+  "description": "But hey, that's just a theory... a GAME theory. Thanks for watching.",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.3.0",
+    "lodash": "~3.6.0",
+    "lodash-deep": "~1.6.0"
+  }
+}
