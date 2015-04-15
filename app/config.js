@@ -1,6 +1,6 @@
 export default {
 
-	name: 'letsgoonanadventure',
+	name: 'gametheory',
 
 	width: 512,
 	heght: 512,
